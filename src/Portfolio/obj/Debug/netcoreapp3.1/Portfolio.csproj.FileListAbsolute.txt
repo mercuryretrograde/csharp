@@ -1,0 +1,12 @@
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.deps.json
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.runtimeconfig.json
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.runtimeconfig.dev.json
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.dll
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/bin/Debug/netcoreapp3.1/Portfolio.pdb
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.csprojAssemblyReference.cache
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.csproj.CoreCompileInputs.cache
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.AssemblyInfoInputs.cache
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.AssemblyInfo.cs
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.dll
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.pdb
+/Users/chedeane/Repo/csharp/Portfolio/src/Portfolio/obj/Debug/netcoreapp3.1/Portfolio.genruntimeconfig.cache

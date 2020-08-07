@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/chedeane/.dotnet/store/|arch|/|tfm|",
+      "/Users/chedeane/.nuget/packages"
+    ]
+  }
+}
